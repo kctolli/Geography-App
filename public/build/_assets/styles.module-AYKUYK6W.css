@@ -1,0 +1,6 @@
+/* app/components/Nav/styles.module.css */
+.nav {
+  border-bottom: 1px solid #ccc;
+  background-color: #eee;
+  padding: 1em 2em;
+}
